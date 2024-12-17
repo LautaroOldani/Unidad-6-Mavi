@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\oldan\source\repos\Project5\Project5\main.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory

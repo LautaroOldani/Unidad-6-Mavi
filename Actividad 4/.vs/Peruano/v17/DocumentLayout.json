@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oldan\\Desktop\\Repositorios para pruebas\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586C7D6C-ED42-4425-B1E4-48EE66DD88EF}|Project5\\Project5.vcxproj|C:\\Users\\oldan\\Desktop\\Repositorios para pruebas\\Project5\\Project5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586C7D6C-ED42-4425-B1E4-48EE66DD88EF}|Project5\\Project5.vcxproj|solutionrelative:Project5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\oldan\\Desktop\\Repositorios para pruebas\\Project5\\Project5\\main.cpp",
+              "RelativeDocumentMoniker": "Project5\\main.cpp",
+              "ToolTip": "C:\\Users\\oldan\\Desktop\\Repositorios para pruebas\\Project5\\Project5\\main.cpp",
+              "RelativeToolTip": "Project5\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T22:39:55.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
